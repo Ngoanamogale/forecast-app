@@ -1,1 +1,1 @@
-Rea the weather
+Read the weather
